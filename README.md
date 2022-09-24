@@ -1,2 +1,1 @@
 # modul-inheritance
-# modul-inheritance
