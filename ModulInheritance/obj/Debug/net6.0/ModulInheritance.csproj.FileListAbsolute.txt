@@ -1,0 +1,15 @@
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ModulInheritance.csproj.AssemblyReference.cache
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ModulInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ModulInheritance.AssemblyInfoInputs.cache
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ModulInheritance.AssemblyInfo.cs
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ModulInheritance.csproj.CoreCompileInputs.cache
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\bin\Debug\net6.0\ModulInheritance.exe
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\bin\Debug\net6.0\ModulInheritance.deps.json
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\bin\Debug\net6.0\ModulInheritance.runtimeconfig.json
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\bin\Debug\net6.0\ModulInheritance.dll
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\bin\Debug\net6.0\ModulInheritance.pdb
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ModulInheritance.dll
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\refint\ModulInheritance.dll
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ModulInheritance.pdb
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ModulInheritance.genruntimeconfig.cache
+D:\SI UNEJ\SEMESTER 3\PEMROGRAMAN BERBASIS OBJEK\PRAKTIKUM\ModulInheritance\ModulInheritance\obj\Debug\net6.0\ref\ModulInheritance.dll
