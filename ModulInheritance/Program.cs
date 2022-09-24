@@ -143,6 +143,22 @@ class ASUS : Laptop
     {   }
 }
 
+class ACER : Laptop
+{
+    public string merk = "ACER";
+
+    public ACER(string merk, string tipe, Vga vga, Processor processor) : base("ACER", tipe, vga, processor)
+    { }
+}
+
+class Lenovo : Laptop
+{
+    public string merk = "Lenovo";
+
+    public Lenovo(string merk, string tipe, Vga vga, Processor processor) : base("Lenovo", tipe, vga, processor)
+    { }
+}
+
 class ROG : ASUS
 {
     public string tipe = "ROG";
@@ -165,14 +181,6 @@ class Vivobook : ASUS
     }
 }
 
-class ACER : Laptop
-{
-    public string merk = "ACER";
-
-    public ACER(string merk, string tipe, Vga vga, Processor processor) : base("ACER", tipe, vga, processor)
-    {   }
-}
-
 class Swift : ACER
 {
     public string tipe = "Swift";
@@ -192,14 +200,6 @@ class Predator : ACER
     {
         Console.WriteLine($"Laptop {merk} {tipe} sedang memainkan game");
     }
-}
-
-class Lenovo : Laptop
-{
-    public string merk = "Lenovo";
-
-    public Lenovo(string merk, string tipe, Vga vga, Processor processor) : base("Lenovo", tipe, vga, processor)
-    {   }
 }
 
 class IdeaPad : Lenovo
